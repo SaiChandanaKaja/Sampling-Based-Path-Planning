@@ -9,4 +9,4 @@ Data: Data consists of data points of obstacles in the environment which should 
 
 Deliverables:
 * code
-* data
+* https://github.com/kajachandana/Sampling-Based-Path-Planning/blob/master/obst.txt
